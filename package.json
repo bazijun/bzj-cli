@@ -1,6 +1,6 @@
 {
   "name": "bzj-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "次时代前端构造器",
   "bin": {
     "bzj": "./bin/cli.js"
