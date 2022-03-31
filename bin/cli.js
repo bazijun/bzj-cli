@@ -10,7 +10,7 @@ console.log(`\n🚀⚡  ${warning('把子脚手架')} ⚡🚀`)
 
 // 使用 figlet 绘制 Logo, lolcats上色
 console.log('\r\n' + lolcats.rainbow(figlet.textSync('BZJ', {
-    font: 'ANSI Shadow', // 'ANSI Shadow' , '3D-ASCII', 'ANSI Regular' ‘Bloody’, 'Elite', 'Delta Corps Priest 1'
+    font: '3D-ASCII', // 'ANSI Shadow' , '3D-ASCII', 'ANSI Regular' ‘Bloody’, 'Elite', 'Delta Corps Priest 1'
     horizontalLayout: 'default',
     verticalLayout: 'default',
     width: 80,
