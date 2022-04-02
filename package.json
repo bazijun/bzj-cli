@@ -1,6 +1,6 @@
 {
   "name": "bzj-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "次时代前端构造器",
   "bin": {
     "bzj": "./bin/cli.js"
@@ -26,6 +26,7 @@
     "axios": "^0.26.1",
     "chalk": "^4.1.2",
     "commander": "^9.0.0",
+    "cross-spawn": "^7.0.3",
     "download-git-repo": "^3.0.2",
     "figlet": "^1.5.2",
     "fs-extra": "^10.0.1",
